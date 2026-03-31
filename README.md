@@ -1,4 +1,4 @@
-🚀 VoxMind — AI Cyberbullying Detection System
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ae1a9a67-60da-4fd1-bc99-7eeec35deddd" />🚀 VoxMind — AI Cyberbullying Detection System
 
 Tech-Athon 2026 · Team VoxMind
 
@@ -59,7 +59,9 @@ Dashboard with charts
 Real-time updates
 
 🏗️ Project Structure
+## 🏗️ Project Structure
 
+```
 VOXMIND/
 │
 ├── backend/
@@ -71,7 +73,8 @@ VOXMIND/
 │
 ├── frontend/
 │   ├── static/
-│   │   ├── css/style.css
+│   │   ├── css/
+│   │   │   └── style.css
 │   │   └── js/
 │   │       ├── main.js
 │   │       └── charts.js
@@ -83,8 +86,10 @@ VOXMIND/
 ├── models/
 │   └── bert_toxicity/      # Pretrained BERT model
 │
-├── requirements.txt
-└── .env                    # Secrets (Telegram config)
+├── requirements.txt        # Python dependencies
+└── .env                    # Environment variables (Telegram config)
+```
+
 
 ⚙️ Installation & Setup
 
