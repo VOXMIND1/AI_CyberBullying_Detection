@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ae1a9a67-60da-4fd1-bc99-7eeec35deddd" />🚀 VoxMind — AI Cyberbullying Detection System
+🚀 VoxMind — AI Cyberbullying Detection System
 
 Tech-Athon 2026 · Team VoxMind
 
